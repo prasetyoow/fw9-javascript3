@@ -1,0 +1,19 @@
+{
+  "name": "fw9-javascript3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "task1.js",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^3.2.6"
+  },
+  "type": "module"
+}
